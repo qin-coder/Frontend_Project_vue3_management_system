@@ -1,6 +1,15 @@
 # Vue3-big-event-admin
 
-This template should help get you started developing with Vue 3 in Vite.
+BigEvent - Dark Horse Programmer BigEvent Vue 3 Project
+Welcome to the BigEvent project, a hands-on course project for Vue 3.
+
+The project covers the following technical points:
+
+Vue: the mainstream front-end framework, the basic knowledge points.
+Axios: asynchronous function library, handling HTTP requests.
+Vue-Router: Route management of Vue.
+Pinia: state management, maintaining the state of the application.
+Engineering development: learned modern front-end engineering practices and tools to use.
 
 ## Recommended IDE Setup
 
